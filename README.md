@@ -22,5 +22,18 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Metallurgy-Books/blob/master/mel(12).pdf" style="text-decoration:none;">Applied Metallurgy and Corrosion Control: A Handbook for the Petrochemical Industry </a></b></li>  
   
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Metallurgy-Books/blob/master/mel(13).pdf" style="text-decoration:none;">The Dictionary of Physical Metallurgy </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Metallurgy-Books/blob/master/mel(14).pdf" style="text-decoration:none;"> Extractive Metallurgy of Rare Earths</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Metallurgy-Books/blob/master/mel(15).pdf" style="text-decoration:none;">Rate Processes In Metallurgy </a></b></li> 
+
+
+
+
+
+
+
 
 </ul>
